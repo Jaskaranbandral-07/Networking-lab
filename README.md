@@ -35,4 +35,4 @@ This repo contains the 10 Experiments we did in 4th sem Network Security Lab
   * **Aim:** Simulate & analyze the performance of Network Security protocol.
 
 ---
-*Repository maintained by Adavya Misra*
+*Repository maintained by Jaskaran Bandral*
